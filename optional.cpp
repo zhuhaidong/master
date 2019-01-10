@@ -235,3 +235,5 @@
       bool         _valid;
       storage_type _value;
   };
+
+//from eosio.code
